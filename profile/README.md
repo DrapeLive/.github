@@ -33,7 +33,7 @@ Having developed multiple projects across platforms, we bring **quality**, **con
 
 ## 🤝 Connect With Us
 
-🌐 [Website](https://vercel.drapelive.app)<br>
+🌐 [Website](https://drapelive.vercel.app)<br>
 📧 [drapelive@gmail.com](mailto:drapelive@gmail.com)<br>
 💼 [LinkedIn](https://www.linkedin.com/company/drapelive/)
 
